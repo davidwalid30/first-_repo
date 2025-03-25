@@ -1,2 +1,2 @@
 # first-_repo
-in this repo , I will talk about some tips and tricks.
+in this repo , we will learn about python .
